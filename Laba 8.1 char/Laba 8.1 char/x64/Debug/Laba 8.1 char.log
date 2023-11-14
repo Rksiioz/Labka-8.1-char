@@ -1,0 +1,4 @@
+﻿  Laba 8.1 char.cpp
+C:\C++\Student\Laba 8.1 char\Laba 8.1 char\Laba 8.1 char.cpp(31,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\C++\Student\Laba 8.1 char\Laba 8.1 char\Laba 8.1 char.cpp(38,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Laba 8.1 char.vcxproj -> C:\C++\Student\Laba 8.1 char\x64\Debug\Laba 8.1 char.exe
